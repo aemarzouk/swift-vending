@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "android"]
+	url = git@git.ng.bluemix.net:amarzouk/Swift-Vending.git
+	fetch = +refs/heads/*:refs/remotes/android/*
+[branch "master"]
+	remote = android
+	merge = refs/heads/mahmod
