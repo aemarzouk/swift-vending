@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\IBM\\CIC-Intern\\Swift-Vending-WorkSpace\\Swift-Vending\\Swift-Vending-Android\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\abdooooo\\.android\\build-cache\\16b82bc27a9b050cf3a95a2c1bcb239637d7a62f\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
